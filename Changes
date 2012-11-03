@@ -1,14 +1,20 @@
-Revision history for Acme-Sort-Bogosort
+Revision history for Perl module Acme::Sort::Bogosort
 
-0.01    8-18-2011 / 12:00pm
-        First version, released on an unsuspecting world.
-0.02    8-19-2011 / 12:00pm
-        Fixed a typo in the POD synopsis.
-        Changed from ACME:: to Acme::
-0.03    8-20-2011 / 1:03pm
-        Added Try::Tiny as a dependency.
-0.04    8-21-2011 / 10:08pm
-        Added 'parent' as a dependency, and
-        switched to using old-style version 
-        numbers (v5.10 => 5.010) for backward
-        compatibility.
+0.05 2012-11-02
+  - All my modules comply with CPAN::Changes::Spec,
+    including Acme::*
+
+0.04 2011-08-21
+  - Added 'parent' as a dependency, and switched to
+    using old-style version numbers (v5.10 => 5.010)
+    for backward compatibility.
+
+0.03 2011-08-20
+  - Added Try::Tiny as a dependency.
+
+0.02 2011-08-19
+  - Fixed type on the POD synopsis.
+  - Changed from ACME:: namespace to Acme::
+
+0.01 2011-08-18
+  - First version, released on an unsuspecting world.

@@ -12,7 +12,7 @@ use List::Util qw/shuffle/;
 
 our @EXPORT = qw/bogosort/;
 
-our $VERSION = '0.04';
+our $VERSION = '0.05';
 
 
 
@@ -71,7 +71,7 @@ Acme::Sort::Bogosort - Implementation of a Bogosort (aka 'stupid sort' or 'slows
 
 =head1 VERSION
 
-Version 0.04
+Version 0.05
 
 =head1 SYNOPSIS
 
